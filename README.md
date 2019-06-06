@@ -1,5 +1,7 @@
 # Voila template for Bootstrap Vue components
 
+[![Version](https://img.shields.io/pypi/v/voila-bootstrapvue.svg)](https://pypi.org/project/voila-bootstrapvue/)
+
 A template for [Voila](https://github.com/QuantStack/voila) runtime to package a Jupyter notebook as a web application.
 
 

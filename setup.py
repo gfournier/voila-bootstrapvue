@@ -108,7 +108,7 @@ for (dirpath, dirnames, filenames) in os.walk('share/jupyter/voila/templates/'):
 
 setup(
     name='voila-bootstrapvue',
-    version="0.0.1a1",
+    version="0.0.1a2",
     description="A BootstrapVue template for voila",
     data_files=data_files,
     include_package_data=True,
